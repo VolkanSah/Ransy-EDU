@@ -1,4 +1,5 @@
-# Ransomware-code-for-demonstration-purposes-only-
+# Ransomware code in JavaScript
+(for-demonstration-purposes-only to understand the technic behind.
 Ransomware code (for demonstration purposes only)
 
 ```
@@ -42,3 +43,4 @@ If payment is not made within 48 hours, the encryption key will be deleted, and 
 console.log(ransomNote);
 
 ```
+Please note that creating or using ransomware is illegal and unethical. It is important to always abide by the law and use technology responsibly and ethically to promote positive outcomes for society.
