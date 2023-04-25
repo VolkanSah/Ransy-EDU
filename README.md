@@ -1,10 +1,11 @@
 # Ransomware Code in JavaScript (Example)
 ##### RedTeam - Techniques for 'Offensive Security' by Volkan Sah - Simple Codings
+
+⚠️ Please note that exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. Use this tool responsibly and only on networks you have permission to access. ⚠️
+
 Ransomware attacks are one of the most destructive and malicious types of cyber threats, often resulting in significant financial losses and personal data theft. It is important to understand the mechanisms of ransomware attacks in order to protect yourself and your systems from these malicious threats.
 
 This JavaScript code provides a simplified example of a ransomware attack and its underlying techniques. It is intended for educational and ethical hacking purposes only, and should not be used for any illegal or unethical activities. It is important to always abide by the law and use technology responsibly and ethically to promote positive outcomes for society.
-
-⚠️ Please note that exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. Use this tool responsibly and only on networks you have permission to access. ⚠️
 
 
 ## Example 
