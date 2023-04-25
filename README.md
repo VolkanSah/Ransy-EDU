@@ -1,23 +1,13 @@
-# Ransomware code in JavaScript (Example)
+# Ransomware Code in JavaScript (Example)
+##### RedTeam - Techniques for 'Offensive Security' by Volkan Sah - Simple Codings
+Ransomware attacks are one of the most destructive and malicious types of cyber threats, often resulting in significant financial losses and personal data theft. It is important to understand the mechanisms of ransomware attacks in order to protect yourself and your systems from these malicious threats.
 
-It is important to understand the mechanisms of ransomware attacks in order to protect yourself and your systems from these malicious threats. The following JavaScript code provides a simplified version of a ransomware attack and its underlying techniques.
+This JavaScript code provides a simplified example of a ransomware attack and its underlying techniques. It is intended for educational and ethical hacking purposes only, and should not be used for any illegal or unethical activities. It is important to always abide by the law and use technology responsibly and ethically to promote positive outcomes for society.
 
-How it works
-The first step is to identify the directory to be targeted for file encryption.
-arduino
-Copy code
-// Directory to target for file encryption
-The next step is to generate an encryption key, which will be used to encrypt the files.
-arduino
+⚠️ Please note that exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. Use this tool responsibly and only on networks you have permission to access. ⚠️
 
 
-
-
-
-
-
-##### RedTeam - Technics
-(for-demonstration-purposes-only to understand the technic behind.
+## Example 
 ```javascript
 // Ransomware code (for demonstration purposes only)
 var fs = require('fs');
@@ -60,4 +50,19 @@ e.g
 console.log(ransomNote);
 
 ```
-Please note that creating or using ransomware is illegal and unethical. It is important to always abide by the law and use technology responsibly and ethically to promote positive outcomes for society.
+
+## Disclaimer
+The developer of this script is not responsible for any misuse or damage caused by this tool. It is the user's responsibility to ensure that they have the necessary permissions to use this tool on their chosen networks. Only for educational and ethical hacking purposes only!
+
+## Issues
+Issues to this script are not accepted as it is intended for educational purposes only and not for production use.
+
+## WARNING! AGAIN!
+**⚠️ exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. ⚠️**
+
+## License
+This project is licensed under the MIT License. 
+
+## Credits
+[Volkan Sah](https://github.com/volkansah)
+
