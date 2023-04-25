@@ -52,6 +52,9 @@ console.log(ransomNote);
 
 ```
 
+##  Note
+As technology continues to advance, it's more important than ever to protect ourselves and our systems from malicious attacks. With the rise of dangerous JavaScript techniques that can be executed through the browser, it's crucial to take proactive measures to safeguard your browsing experience. By utilizing browser add-ons such as NoScript and Privacy Badger, you can protect yourself from potential threats and enjoy a safer, more secure online experience. Remember, it's not just about protecting yourself - it's about promoting a culture of responsible technology use that benefits society as a whole
+
 ## Disclaimer
 The developer of this script is not responsible for any misuse or damage caused by this tool. It is the user's responsibility to ensure that they have the necessary permissions to use this tool on their chosen networks. Only for educational and ethical hacking purposes only!
 
