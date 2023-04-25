@@ -1,5 +1,5 @@
 # Ransomware Code in JavaScript (Example)
-##### RedTeam - Techniques for 'Offensive Security' by Volkan Sah - Simple Codings
+##### RedTeam - Techniques for 'Offensive Security' by Volkan Sah - Simple Codings (update 04/2023)
 
 ⚠️ Please note that exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. Use this tool responsibly and only on networks you have permission to access. ⚠️
 
