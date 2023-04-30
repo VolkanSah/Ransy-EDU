@@ -65,6 +65,11 @@ Issues to this script are not accepted as it is intended for educational purpose
 ## License
 This project is licensed under the MIT License. 
 
-## Credits
-[Volkan Sah](https://github.com/volkansah)
+## Copyright
+- [VolkanSah on Github](https://github.com/volkansah)
+- [Developer Site](https://volkansah.github.io)
+- [Become a 'Sponsor'](https://github.com/sponsors/volkansah)
+## License
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
+
 
