@@ -61,10 +61,6 @@ Issues to this script are not accepted as it is intended for educational purpose
 
 ## WARNING! AGAIN!
 **⚠️ exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. ⚠️**
-
-## License
-This project is licensed under the MIT License. 
-
 ## Copyright
 - [VolkanSah on Github](https://github.com/volkansah)
 - [Developer Site](https://volkansah.github.io)
