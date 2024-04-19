@@ -1,4 +1,4 @@
-# JADE - Code in JavaScript (Example)
+# Ransy - Code in JavaScript (Example)
 ##### RedTeam - Techniques for 'Offensive Security' by Volkan Sah - Simple Codings for Offensive Security (update 02/2023)
 
 ⚠️ Please note that exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. Use this informations responsibly and only on networks you have permission to access. ⚠️
