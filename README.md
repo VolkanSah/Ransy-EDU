@@ -1,7 +1,7 @@
 # Ransy - Code in JavaScript (Example)
 ##### RedTeam - Techniques for 'Offensive Security' by Volkan Sah - Simple Codings for Offensive Security (update 02/2023)
 > [!WARNING]
-> ⚠️ Please note that exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. Use this informations responsibly and only on networks you have permission to access. ⚠️
+>  Please note that exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. Use this informations responsibly and only on networks you have permission to access.
 
 Ransomware attacks are one of the most destructive and malicious types of cyber threats, often resulting in significant financial losses and personal data theft. It is important to understand the mechanisms of ransomware attacks in order to protect yourself and your systems from these malicious threats.
 
