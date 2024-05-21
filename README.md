@@ -59,8 +59,9 @@ The developer of this script is not responsible for any misuse or damage caused 
 ## Issues
 Issues to this script are not accepted as it is intended for educational purposes only and not for production use.
 
-## WARNING! AGAIN!
-**⚠️ exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. ⚠️**
+> [!WARNING]
+> ** exploiting security vulnerabilities without permission and creating or using ransomware is illegal and unethical, and may result in criminal charges. **
+
 ### Thank you for your support!
 - If you appreciate my work, please consider [becoming a 'Sponsor'](https://github.com/sponsors/volkansah), giving a :star: to my projects, or following me. 
 ### Copyright
